@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Smile Again - From THE FIRST TAKE",
+  "base_artist": "BE:FIRST",
+  "createdAt": "2025-12-28T16:30:17.231219Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Smile Again",
+      "artist": "Usher",
+      "has_synced": true,
+      "path": "select/01_Smile_Again_Usher.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Happy Smile Again",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/02_Happy_Smile_Again_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Smile Again",
+      "artist": "The Manhattan Transfer",
+      "has_synced": true,
+      "path": "select/03_Smile_Again_The_Manhattan_Transfer.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Smile Again",
+      "artist": "Manhattan Transfer",
+      "has_synced": true,
+      "path": "select/04_Smile_Again_Manhattan_Transfer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'll Never Smile Again",
+      "artist": "Frank Sinatra",
+      "has_synced": true,
+      "path": "select/05_I'll_Never_Smile_Again_Frank_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'll Never Smile Again",
+      "artist": "Dave Brubeck",
+      "has_synced": false,
+      "path": "select/06_I'll_Never_Smile_Again_Dave_Brubeck.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I'll Never Smile Again",
+      "artist": "Rebecca Ferguson",
+      "has_synced": false,
+      "path": "select/07_I'll_Never_Smile_Again_Rebecca_Ferguson.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "When Will I See You Smile Again?",
+      "artist": "Bell Biv DeVoe",
+      "has_synced": true,
+      "path": "select/08_When_Will_I_See_You_Smile_Again_Bell_Biv_DeVoe.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Make This Heart Of Mine Smile Again",
+      "artist": "Tom Jones",
+      "has_synced": false,
+      "path": "select/09_Make_This_Heart_Of_Mine_Smile_Again_Tom_Jones.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I'll Never Smile Again",
+      "artist": "The Platters",
+      "has_synced": true,
+      "path": "select/10_I'll_Never_Smile_Again_The_Platters.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I'll Never Smile Again",
+      "artist": "Tommy Dorsey and His Orchestra",
+      "has_synced": true,
+      "path": "select/11_I'll_Never_Smile_Again_Tommy_Dorsey_and_His_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I'll Never Smile Again",
+      "artist": "Frank Sinatra with the Tommy Dorsey Orchestra",
+      "has_synced": false,
+      "path": "select/12_I'll_Never_Smile_Again_Frank_Sinatra_with_the_Tommy_Dorsey_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I'll Never Smile Again",
+      "artist": "Billie Holiday",
+      "has_synced": true,
+      "path": "select/13_I'll_Never_Smile_Again_Billie_Holiday.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Smile Again - From THE FIRST TAKE",
+      "artist": "BE:FIRST",
+      "has_synced": false,
+      "path": "select/pl_01_Smile_Again_-_From_THE_FIRST_TAKE_BE_FIRST.txt"
+    }
+  ]
+}
